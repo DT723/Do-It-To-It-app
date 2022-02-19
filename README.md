@@ -6,6 +6,6 @@
 
 # HTML for mark up
 
-# lex box and CSS for styling
+# flex box and CSS for styling
 
 # JavaScript for function
