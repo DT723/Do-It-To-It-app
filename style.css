@@ -22,6 +22,7 @@ form {
 }
 
 input {
+  width: 40rem;
   font-size: 3rem;
   text-align: center;
   font-family: 'Poppins', sans-serif;
